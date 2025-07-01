@@ -1,0 +1,9 @@
+RAG systems are useful in many real-world applications:
+
+- Open-domain Question Answering
+- Enterprise Knowledge Base Chatbots
+- Legal and Medical Document Assistants
+- Research Summarization Tools
+- Customer Support Automation
+
+RAG is especially effective when the model must stay up-to-date or grounded in specific content.

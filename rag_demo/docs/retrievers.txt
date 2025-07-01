@@ -1,0 +1,7 @@
+Retrievers are responsible for selecting the most relevant information from a knowledge base. Popular types of retrievers include:
+
+- BM25: A classic term-based scoring algorithm.
+- Dense Passage Retrieval (DPR): Learns dense embeddings using contrastive learning.
+- ColBERT: Uses late interaction over contextualized embeddings for fine-grained retrieval.
+
+Retrievers encode queries and documents into the same vector space and retrieve via similarity search.

@@ -1,0 +1,7 @@
+Embedding models transform text into numerical vector representations. Common models include:
+
+- all-MiniLM-L6-v2: Small and fast model for sentence embeddings.
+- text-embedding-ada-002: OpenAI’s powerful and cost-effective embedding model.
+- nomic-embed-text-v1.5: A high-quality open-source embedding model for semantic search.
+
+These embeddings are indexed with tools like FAISS to enable fast similarity search.

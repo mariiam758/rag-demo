@@ -1,0 +1,8 @@
+Popular generators in RAG setups include:
+
+- GPT-3: An autoregressive transformer model by OpenAI.
+- BART: A sequence-to-sequence model trained with denoising objectives.
+- T5: Treats NLP problems as text-to-text tasks.
+- Mistral: An efficient, open-source model suitable for local RAG systems.
+
+These generators use retrieved context to produce grounded and fluent natural language responses.

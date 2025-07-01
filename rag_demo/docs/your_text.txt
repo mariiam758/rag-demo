@@ -1,0 +1,10 @@
+Retrieval-Augmented Generation (RAG) is a method that combines information retrieval with text generation. 
+It allows large language models to access external knowledge at inference time, improving accuracy and factual consistency.
+
+The retriever component searches a document collection for relevant passages. 
+These are then passed to the generator model, which forms a coherent answer based on the context.
+
+Popular retrievers include BM25, Dense Passage Retrieval (DPR), and ColBERT.
+Generative models include GPT-3, BART, T5, and Mistral.
+
+RAG is commonly used in open-domain question answering, chatbots, and document-based QA systems.

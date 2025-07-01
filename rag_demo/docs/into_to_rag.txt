@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) combines a retriever and a generator to create responses grounded in external knowledge. It enhances LLMs by allowing them to search a document collection during inference.
+
+The retriever selects relevant documents or passages based on a query. The generator then uses those documents as context to generate a final response.
+
+This technique improves factual accuracy and helps mitigate hallucinations commonly found in large language models.
