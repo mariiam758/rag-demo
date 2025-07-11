@@ -22,7 +22,7 @@ It allows users to upload `.pdf` and `.txt` files, ask questions in natural lang
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ### 2.  Run LM Studio:
 - Open LM Studio
@@ -33,16 +33,20 @@ pip install -r requirements.txt
 
 ### 3. start the app
 
+```bash
 streamlit run app.py
-
+```
 ---
 
 Project Structure
 
 rag_demo/
 ├── app.py                # Streamlit interface
+
 ├── rag_engine.py         # Core logic for loading, embedding, retrieval, generation
+
 ├── requirements.txt      # Python dependencies
+
 ├── docs/                 # Uploaded .txt and .pdf documents
 
 ---
